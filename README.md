@@ -7,7 +7,7 @@ Analysis of a custom E-commerce dataset consisting of Orders and Customers table
   c. The project also includes a related customers table to practice joining data from multiple tables.
 
 2. Dataset -
-  a. The project uses a manually created dataset containing 100 orders and a separate **55-row customers table**.
+  a. The project uses a manually created dataset containing **100 orders** and a separate **55-row customers table**.
   b. The orders dataset includes details such as:
     - Order ID and order date
     - Customer name and city
